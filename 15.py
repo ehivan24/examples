@@ -16,7 +16,7 @@ while True:
 
     cv2.imshow('Edges', edges)
     cv2.imshow('original', frame)
-    #cv2.imshow('sobelX', sobelx)
+    cv2.imshow('sobelX', sobelx)
     #cv2.imshow('sobelY', sobely)
     #cv2.imshow('laplacian', laplacian)
 
